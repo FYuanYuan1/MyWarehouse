@@ -1,0 +1,14 @@
+Index: src/a.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/a.java	(date 1534989587000)
++++ src/a.java	(revision )
+@@ -3,5 +3,6 @@
+         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+         System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
+         System.out.println("ccccccccccccccccccccccccccccccccccccccccc");
++        System.out.println("ddddddddddddddddddd");
+     }
+ }
